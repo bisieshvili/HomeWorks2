@@ -1,0 +1,14 @@
+C:\Users\Mariami\source\repos\Homework1\Homework1\obj\Debug\net10.0\Homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariami\source\repos\Homework1\Homework1\obj\Debug\net10.0\Homework1.AssemblyInfoInputs.cache
+C:\Users\Mariami\source\repos\Homework1\Homework1\obj\Debug\net10.0\Homework1.AssemblyInfo.cs
+C:\Users\Mariami\source\repos\Homework1\Homework1\obj\Debug\net10.0\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\Mariami\source\repos\Homework1\Homework1\bin\Debug\net10.0\Homework1.exe
+C:\Users\Mariami\source\repos\Homework1\Homework1\bin\Debug\net10.0\Homework1.deps.json
+C:\Users\Mariami\source\repos\Homework1\Homework1\bin\Debug\net10.0\Homework1.runtimeconfig.json
+C:\Users\Mariami\source\repos\Homework1\Homework1\bin\Debug\net10.0\Homework1.dll
+C:\Users\Mariami\source\repos\Homework1\Homework1\bin\Debug\net10.0\Homework1.pdb
+C:\Users\Mariami\source\repos\Homework1\Homework1\obj\Debug\net10.0\Homework1.dll
+C:\Users\Mariami\source\repos\Homework1\Homework1\obj\Debug\net10.0\refint\Homework1.dll
+C:\Users\Mariami\source\repos\Homework1\Homework1\obj\Debug\net10.0\Homework1.pdb
+C:\Users\Mariami\source\repos\Homework1\Homework1\obj\Debug\net10.0\Homework1.genruntimeconfig.cache
+C:\Users\Mariami\source\repos\Homework1\Homework1\obj\Debug\net10.0\ref\Homework1.dll
